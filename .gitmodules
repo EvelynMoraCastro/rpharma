@@ -1,0 +1,4 @@
+[submodule "rpharma"]
+	path = rpharma
+	url = git@git.vauxoo.com:vauxoo/rpharma.git
+	branch = 14.0
